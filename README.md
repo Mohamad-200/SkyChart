@@ -1,2 +1,3 @@
 # SkyChart
-Simple 2D &amp; 3D charts for modern web apps. Clean API, flexible config, and powerful rendering.
+SkyChart is a modern JavaScript charting library focused on simplicity, clarity, and expressive 2D/3D visualizations.
+It provides a clean, declarative API and ready-to-use examples to help developers build charts quickly without sacrificing flexibility.
