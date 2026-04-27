@@ -1,0 +1,29 @@
+{
+  "name": "skychart",
+  "version": "3.0.0-alpha.0",
+  "description": "SkyChart - simple 2D and 3D charts for modern websites.",
+  "main": "dist/SkyChart.js",
+  "files": [
+    "dist",
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE-SKYCHART.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "echo Build script will be added after source split",
+    "test": "echo Test script will be added after test harness setup"
+  },
+  "keywords": [
+    "charts",
+    "charting",
+    "javascript",
+    "3d",
+    "skychart"
+  ],
+  "author": "Mohammed Qaoud",
+  "license": "SEE LICENSE IN LICENSE-SKYCHART.md",
+  "private": true
+}
+
